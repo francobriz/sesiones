@@ -1,0 +1,19 @@
+nav {
+  background-color: antiquewhite;
+  padding: 10px;
+  text-align: end;
+}
+
+nav > span {
+  margin-right: 30px;
+}
+
+nav > a {
+  text-decoration: none;
+}
+
+nav img {
+  height: 40px;
+  object-fit: fill;
+  margin-right: 50px;
+}

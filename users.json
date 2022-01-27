@@ -1,0 +1,26 @@
+[
+  {
+    "username": "maxir",
+    "pass": "rixam",
+    "name": "Maxi R.",
+    "userImg": "maxir.png"
+  },
+  {
+    "username": "florb",
+    "pass": "brolf",
+    "name": "Flor B.",
+    "userImg": "florb.png"
+  },
+  {
+    "username": "hugo",
+    "pass": "oguh",
+    "name": "Hugo",
+    "userImg": "hugo.png"
+  },
+  {
+    "username": "seba",
+    "pass": "abes",
+    "name": "Seba",
+    "userImg": "seba.png"
+  }
+]
